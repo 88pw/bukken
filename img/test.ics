@@ -1,0 +1,907 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//Airbnb Inc//Hosting Calendar 0.8.8//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161003
+DTSTART;VALUE=DATE:20160930
+UID:-jdujxtf0gyxf--5n6x9ldlfg6m@airbnb.com
+DESCRIPTION:CHECKIN: 2016/09/30\nCHECKOUT: 2016/10/03\nNIGHTS: 3\nPHONE: 
+ +1 (914) 473-7151\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Yi Lu (N94W59)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161007
+DTSTART;VALUE=DATE:20161004
+UID:-jdujxtf0gyxf--uvnbgf6e97tu@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/04\nCHECKOUT: 2016/10/07\nNIGHTS: 3\nPHONE: 
+ +82 10 9479 1855\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:부은 김 (ZZ4A4W)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161010
+DTSTART;VALUE=DATE:20161008
+UID:-jdujxtf0gyxf--agylz11wqtty@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/08\nCHECKOUT: 2016/10/10\nNIGHTS: 2\nPHONE: 
+ +61 431 713 536\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Lachlan Gibbs (MKFEZY)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161012
+DTSTART;VALUE=DATE:20161010
+UID:-jdujxtf0gyxf-3008xnyprrzq@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/10\nCHECKOUT: 2016/10/12\nNIGHTS: 2\nPHONE: 
+ +86 130 7279 2252\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Hannah Jo (B2JW9E)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161017
+DTSTART;VALUE=DATE:20161012
+UID:-jdujxtf0gyxf-rkhwse5x8cmg@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/12\nCHECKOUT: 2016/10/17\nNIGHTS: 5\nPHONE: 
+ +61 400 433 191\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Daniel Langdale (8EPAYB)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161020
+DTSTART;VALUE=DATE:20161017
+UID:-jdujxtf0gyxf--haknjkymz1p8@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/17\nCHECKOUT: 2016/10/20\nNIGHTS: 3\nPHONE: 
+ +61 432 456 754\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:David Le (2MP4DW)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161022
+DTSTART;VALUE=DATE:20161020
+UID:-jdujxtf0gyxf-ijz3w7og6c8i@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/20\nCHECKOUT: 2016/10/22\nNIGHTS: 2\nPHONE: 
+ +82 10 3078 7788\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:진호 김 (5FCZS2)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161026
+DTSTART;VALUE=DATE:20161022
+UID:-jdujxtf0gyxf--e6paqcif8hc0@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/22\nCHECKOUT: 2016/10/26\nNIGHTS: 4\nPHONE: 
+ +82 10 8310 8990\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:병환 천 (DEJNPM)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161028
+DTSTART;VALUE=DATE:20161026
+UID:-jdujxtf0gyxf--1j1gjwt4v8po@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/26\nCHECKOUT: 2016/10/28\nNIGHTS: 2\nPHONE: 
+ +81-90-7971-0018\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:Mari Hanakawa (24JSSS)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161030
+DTSTART;VALUE=DATE:20161028
+UID:-jdujxtf0gyxf--rges3iv67cao@airbnb.com
+DESCRIPTION:CHECKIN: 2016/10/28\nCHECKOUT: 2016/10/30\nNIGHTS: 2\nPHONE: 
+ +31 6 24 35 34 89\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Z Dai (DXXAZT)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161105
+DTSTART;VALUE=DATE:20161101
+UID:-jdujxtf0gyxf-5zyrw2p35mey@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/01\nCHECKOUT: 2016/11/05\nNIGHTS: 4\nPHONE: 
+ +1 (305) 467-2340\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Claudia Gold (DCHHCA)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161110
+DTSTART;VALUE=DATE:20161105
+UID:-jdujxtf0gyxf-gt72lc9vmy4@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/05\nCHECKOUT: 2016/11/10\nNIGHTS: 5\nPHONE: 
+ +63 917 7743753\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Mariel Ramolete (3P33K9)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161112
+DTSTART;VALUE=DATE:20161110
+UID:-jdujxtf0gyxf-fau6szevj37o@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/10\nCHECKOUT: 2016/11/12\nNIGHTS: 2\nPHONE: 
+ +86 139 8360 0291\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Tu Rui (5EY5HQ)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161117
+DTSTART;VALUE=DATE:20161112
+UID:-jdujxtf0gyxf-ghv5tqur5cyo@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/12\nCHECKOUT: 2016/11/17\nNIGHTS: 5\nPHONE: 
+ +886 91 675 2438\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:Zung-You Tsai (BDYE5R)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161121
+DTSTART;VALUE=DATE:20161117
+UID:-jdujxtf0gyxf--gph7shlt70m4@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/17\nCHECKOUT: 2016/11/21\nNIGHTS: 4\nPHONE: 
+ +82 10 2691 2441\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:민경 안 (TEKKZR)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161122
+DTSTART;VALUE=DATE:20161121
+UID:-jdujxtf0gyxf-7a48i03m9jhi@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/21\nCHECKOUT: 2016/11/22\nNIGHTS: 1\nPHONE: 
+ +44 7740 624878\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Patrick Leahy (EJYTMS)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161126
+DTSTART;VALUE=DATE:20161122
+UID:-jdujxtf0gyxf-698n7asai6y8@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/22\nCHECKOUT: 2016/11/26\nNIGHTS: 4\nPHONE: 
+ +61 401 921 992\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Anna Vo (BD85MA)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161129
+DTSTART;VALUE=DATE:20161126
+UID:-jdujxtf0gyxf-sb58xnhyj42u@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/26\nCHECKOUT: 2016/11/29\nNIGHTS: 3\nPHONE: 
+ +60 12 205 3565\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Mazatul Monir (3HK2A2)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161202
+DTSTART;VALUE=DATE:20161130
+UID:-jdujxtf0gyxf--cwk5t64gec7e@airbnb.com
+DESCRIPTION:CHECKIN: 2016/11/30\nCHECKOUT: 2016/12/02\nNIGHTS: 2\nPHONE: 
+ +86 185 0222 1223\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Jie Tang (XEPJK3)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161204
+DTSTART;VALUE=DATE:20161203
+UID:-jdujxtf0gyxf--qs6ldijm4iyg@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/03\nCHECKOUT: 2016/12/04\nNIGHTS: 1\nPHONE: 
+ +852 6289 2135\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shin
+ saibashi shopping street!\n
+SUMMARY:Fanny Wong (N2ADM5)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161210
+DTSTART;VALUE=DATE:20161204
+UID:-jdujxtf0gyxf-7av23vw4huiy@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/04\nCHECKOUT: 2016/12/10\nNIGHTS: 6\nPHONE: 
+ +852 6744 2616\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shin
+ saibashi shopping street!\n
+SUMMARY:Mandy Wu (ZXB2WP)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161211
+DTSTART;VALUE=DATE:20161210
+UID:-jdujxtf0gyxf--48tij0xd8c3i@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/10\nCHECKOUT: 2016/12/11\nNIGHTS: 1\nPHONE: 
+ +886 92 165 0819\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:Tsungyi Lee (HXKKXQ)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161213
+DTSTART;VALUE=DATE:20161211
+UID:-jdujxtf0gyxf--f6rwjf6xlnds@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/11\nCHECKOUT: 2016/12/13\nNIGHTS: 2\nPHONE: 
+ +82 10 8888 5001\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:Hyejung Lee (E92K8D)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161217
+DTSTART;VALUE=DATE:20161213
+UID:-jdujxtf0gyxf--mtuyhmht5ije@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/13\nCHECKOUT: 2016/12/17\nNIGHTS: 4\nPHONE: 
+ +82 10 5428 4893\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:다은 고 (MENYKC)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161221
+DTSTART;VALUE=DATE:20161217
+UID:-jdujxtf0gyxf--wy30dqg86t46@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/17\nCHECKOUT: 2016/12/21\nNIGHTS: 4\nPHONE: 
+ +82 10 5220 9226\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:지은 강 (ZYDE9Z)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161225
+DTSTART;VALUE=DATE:20161222
+UID:-jdujxtf0gyxf--gozcj9jvquf8@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/22\nCHECKOUT: 2016/12/25\nNIGHTS: 3\nPHONE: 
+ +853 6 677 2901\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Waiu Tam (FM34CM)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161231
+DTSTART;VALUE=DATE:20161227
+UID:-jdujxtf0gyxf-38u7uukkktgm@airbnb.com
+DESCRIPTION:CHECKIN: 2016/12/27\nCHECKOUT: 2016/12/31\nNIGHTS: 4\nPHONE: 
+ +82 10 3082 7511\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:Jihyeon Kang (RFBYPH)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170114
+DTSTART;VALUE=DATE:20170112
+UID:-jdujxtf0gyxf-qdyx7dx3wloq@airbnb.com
+DESCRIPTION:CHECKIN: 2017/01/12\nCHECKOUT: 2017/01/14\nNIGHTS: 2\nPHONE: 
+ +81-80-9825-0655\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:キュウ シャンシャン (K2AHPM)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170115
+DTSTART;VALUE=DATE:20170114
+UID:-jdujxtf0gyxf--ujdk5ot7gl3a@airbnb.com
+DESCRIPTION:CHECKIN: 2017/01/14\nCHECKOUT: 2017/01/15\nNIGHTS: 1\nPHONE: 
+ +81-90-1018-4217\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n\n清掃管理不要
+SUMMARY:Yoko O (3SSKFH)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170119
+DTSTART;VALUE=DATE:20170116
+UID:-jdujxtf0gyxf--tcfguewct5de@airbnb.com
+DESCRIPTION:CHECKIN: 2017/01/16\nCHECKOUT: 2017/01/19\nNIGHTS: 3\nPHONE: 
+ +86 135 3008 6615\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:少彬 吴 (TW93AB)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170123
+DTSTART;VALUE=DATE:20170120
+UID:-jdujxtf0gyxf-2y6qt5m74v0m@airbnb.com
+DESCRIPTION:CHECKIN: 2017/01/20\nCHECKOUT: 2017/01/23\nNIGHTS: 3\nPHONE: 
+ +82 10 2879 7719\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:Yongjin Jo (BYJTDC)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170127
+DTSTART;VALUE=DATE:20170124
+UID:-jdujxtf0gyxf-n0e17apui8tc@airbnb.com
+DESCRIPTION:CHECKIN: 2017/01/24\nCHECKOUT: 2017/01/27\nNIGHTS: 3\nPHONE: 
+ +86 135 7097 4320\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Chengcheng Guo (3AZYD8)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170130
+DTSTART;VALUE=DATE:20170127
+UID:-jdujxtf0gyxf--vu85fdqqciqc@airbnb.com
+DESCRIPTION:CHECKIN: 2017/01/27\nCHECKOUT: 2017/01/30\nNIGHTS: 3\nPHONE: 
+ +86 185 1130 0251\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Lian Huan (JCZB8Z)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170202
+DTSTART;VALUE=DATE:20170130
+UID:-jdujxtf0gyxf--9asxs0swvr5a@airbnb.com
+DESCRIPTION:CHECKIN: 2017/01/30\nCHECKOUT: 2017/02/02\nNIGHTS: 3\nPHONE: 
+ +82 10 2871 6884\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:혜진 박 (4AWSRP)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170205
+DTSTART;VALUE=DATE:20170202
+UID:-jdujxtf0gyxf-i32j5jgblvgg@airbnb.com
+DESCRIPTION:CHECKIN: 2017/02/02\nCHECKOUT: 2017/02/05\nNIGHTS: 3\nPHONE: 
+ +86 137 6022 7047\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:少鹏 郑 (T2W2NR)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170209
+DTSTART;VALUE=DATE:20170205
+UID:-jdujxtf0gyxf--y6448a30zjrk@airbnb.com
+DESCRIPTION:CHECKIN: 2017/02/05\nCHECKOUT: 2017/02/09\nNIGHTS: 4\nPHONE: 
+ +82 10 2523 6645\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:예린 이 (NECWPD)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170218
+DTSTART;VALUE=DATE:20170214
+UID:-jdujxtf0gyxf--bf4ldjvtixhi@airbnb.com
+DESCRIPTION:CHECKIN: 2017/02/14\nCHECKOUT: 2017/02/18\nNIGHTS: 4\nPHONE: 
+ +63 917 8913857\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Kriska Isabelle Montalla (ARKTYE)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170224
+DTSTART;VALUE=DATE:20170220
+UID:-jdujxtf0gyxf--79hd6x881xc2@airbnb.com
+DESCRIPTION:CHECKIN: 2017/02/20\nCHECKOUT: 2017/02/24\nNIGHTS: 4\nPHONE: 
+ +86 134 8215 1449\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Shadow Guo (F8ZYHZ)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170228
+DTSTART;VALUE=DATE:20170225
+UID:-jdujxtf0gyxf--wjpr3l4olkoi@airbnb.com
+DESCRIPTION:CHECKIN: 2017/02/25\nCHECKOUT: 2017/02/28\nNIGHTS: 3\nPHONE: 
+ +852 9540 1002\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shin
+ saibashi shopping street!\n
+SUMMARY:Mo Chan (PTBAMB)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170319
+DTSTART;VALUE=DATE:20170316
+UID:-jdujxtf0gyxf--k2bpvc3ly1wi@airbnb.com
+DESCRIPTION:CHECKIN: 2017/03/16\nCHECKOUT: 2017/03/19\nNIGHTS: 3\nPHONE: 
+ +60 16 596 9999\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Yee Ching Chong (SM9BMD)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170327
+DTSTART;VALUE=DATE:20170325
+UID:-jdujxtf0gyxf-mtn48g7ejju2@airbnb.com
+DESCRIPTION:CHECKIN: 2017/03/25\nCHECKOUT: 2017/03/27\nNIGHTS: 2\nPHONE: 
+ +65 9763 0369\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shins
+ aibashi shopping street!\n
+SUMMARY:Fayth Zheng (SXTZPF)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170330
+DTSTART;VALUE=DATE:20170327
+UID:-jdujxtf0gyxf--ncuyqw10osyo@airbnb.com
+DESCRIPTION:CHECKIN: 2017/03/27\nCHECKOUT: 2017/03/30\nNIGHTS: 3\nPHONE: 
+ +86 156 2621 1963\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Chevon Deng (9H32DJ)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170401
+DTSTART;VALUE=DATE:20170330
+UID:-jdujxtf0gyxf--vogjb12iakds@airbnb.com
+DESCRIPTION:CHECKIN: 2017/03/30\nCHECKOUT: 2017/04/01\nNIGHTS: 2\nPHONE: 
+ +31 6 38 28 83 58\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Cherry Cheung (DQPEMT)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170419
+DTSTART;VALUE=DATE:20170416
+UID:-jdujxtf0gyxf--egnu5dn4pnrm@airbnb.com
+DESCRIPTION:CHECKIN: 2017/04/16\nCHECKOUT: 2017/04/19\nNIGHTS: 3\nPHONE: 
+ +63 917 3129095\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Adrienne Paul Atienza (HM3P8HSW22)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170423
+DTSTART;VALUE=DATE:20170419
+UID:-jdujxtf0gyxf--h1cuh4dgv91u@airbnb.com
+DESCRIPTION:CHECKIN: 2017/04/19\nCHECKOUT: 2017/04/23\nNIGHTS: 4\nPHONE: 
+ +886 98 787 8160\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:婉宜 簡 (HMSHXZ59TF)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170427
+DTSTART;VALUE=DATE:20170423
+UID:-jdujxtf0gyxf--666ahj6oy1le@airbnb.com
+DESCRIPTION:CHECKIN: 2017/04/23\nCHECKOUT: 2017/04/27\nNIGHTS: 4\nPHONE: 
+ +86 134 8027 7204\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Yunying Qiu (HMCB9Y4MX3)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170430
+DTSTART;VALUE=DATE:20170427
+UID:-jdujxtf0gyxf-9jhad600f7f6@airbnb.com
+DESCRIPTION:CHECKIN: 2017/04/27\nCHECKOUT: 2017/04/30\nNIGHTS: 3\nPHONE: 
+ +66 812 515 841\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Bowling Jk (HMQW8WEPR9)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170502
+DTSTART;VALUE=DATE:20170430
+UID:-jdujxtf0gyxf--x6awuq0svoha@airbnb.com
+DESCRIPTION:CHECKIN: 2017/04/30\nCHECKOUT: 2017/05/02\nNIGHTS: 2\nPHONE: 
+ +852 5109 8546\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shin
+ saibashi shopping street!\n
+SUMMARY:祖茜 祖 (HMS2RACT89)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170531
+DTSTART;VALUE=DATE:20170525
+UID:-jdujxtf0gyxf--8gjzl9mnusz8@airbnb.com
+DESCRIPTION:CHECKIN: 2017/05/25\nCHECKOUT: 2017/05/31\nNIGHTS: 6\nPHONE: 
+ +852 6275 8949\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shin
+ saibashi shopping street!\n
+SUMMARY:Kwok Derek (HMWZ8PJSPD)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170604
+DTSTART;VALUE=DATE:20170601
+UID:-jdujxtf0gyxf--ls686r0fu9x4@airbnb.com
+DESCRIPTION:CHECKIN: 2017/06/01\nCHECKOUT: 2017/06/04\nNIGHTS: 3\nPHONE: 
+ +66 832 869 887\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Amornthep Hanphanit (HMYFQEPAHB)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170607
+DTSTART;VALUE=DATE:20170604
+UID:-jdujxtf0gyxf--yjmv49bzosw2@airbnb.com
+DESCRIPTION:CHECKIN: 2017/06/04\nCHECKOUT: 2017/06/07\nNIGHTS: 3\nPHONE: 
+ +852 6591 9758\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shin
+ saibashi shopping street!\n
+SUMMARY:Nicole Tang (HMXMRTX4PA)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170613
+DTSTART;VALUE=DATE:20170608
+UID:-jdujxtf0gyxf--v3zcc2w5uj58@airbnb.com
+DESCRIPTION:CHECKIN: 2017/06/08\nCHECKOUT: 2017/06/13\nNIGHTS: 5\nPHONE: 
+ +86 137 7776 3831\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:慈爱 林 (HMTQM55DBX)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170618
+DTSTART;VALUE=DATE:20170614
+UID:-jdujxtf0gyxf--4g3wndpss37k@airbnb.com
+DESCRIPTION:CHECKIN: 2017/06/14\nCHECKOUT: 2017/06/18\nNIGHTS: 4\nPHONE: 
+ +86 138 0642 9991\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:无敌 陈 (HMC89BS2BP)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170621
+DTSTART;VALUE=DATE:20170618
+UID:-jdujxtf0gyxf-jwcv34e6000e@airbnb.com
+DESCRIPTION:CHECKIN: 2017/06/18\nCHECKOUT: 2017/06/21\nNIGHTS: 3\nPHONE: 
+ +60 17 295 7800\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Shi
+ nsaibashi shopping street!\n
+SUMMARY:Daniel Chin (HMWK9RZYKH)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170628
+DTSTART;VALUE=DATE:20170621
+UID:-jdujxtf0gyxf-i14g0gfj92pk@airbnb.com
+DESCRIPTION:CHECKIN: 2017/06/21\nCHECKOUT: 2017/06/28\nNIGHTS: 7\nPHONE: 
+ +971 56 710 4755\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:Daren John Bautista (HM25JYYD5C)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170703
+DTSTART;VALUE=DATE:20170629
+UID:-jdujxtf0gyxf-bqzh2rnzf2wu@airbnb.com
+DESCRIPTION:CHECKIN: 2017/06/29\nCHECKOUT: 2017/07/03\nNIGHTS: 4\nPHONE: 
+ +82 10 2969 6772\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and Sh
+ insaibashi shopping street!\n
+SUMMARY:지윤 박 (HMT2SNNTSW)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170709
+DTSTART;VALUE=DATE:20170706
+UID:-jdujxtf0gyxf-xqu95dx2m9q6@airbnb.com
+DESCRIPTION:CHECKIN: 2017/07/06\nCHECKOUT: 2017/07/09\nNIGHTS: 3\nPHONE: 
+ +62 858 4646 2517\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:Arisdana Sutardhi (HMQH5PTCN9)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170717
+DTSTART;VALUE=DATE:20170713
+UID:-jdujxtf0gyxf-dbw4barh2c2a@airbnb.com
+DESCRIPTION:CHECKIN: 2017/07/13\nCHECKOUT: 2017/07/17\nNIGHTS: 4\nPHONE: 
+ +86 139 0961 9220\nEMAIL: (エイリアスが設定されていません)\nPROPERTY: A Dotonbori and S
+ hinsaibashi shopping street!\n
+SUMMARY:寅 周 (HMXPR54WNS)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170722
+DTSTART;VALUE=DATE:20170720
+UID:-jdujxtf0gyxf-nxocoiv8fd6g@airbnb.com
+DESCRIPTION:CHECKIN: 2017/07/20\nCHECKOUT: 2017/07/22\nNIGHTS: 2\nPHONE: 
+ +86 184 3459 9708\nEMAIL: hui-1t29sk2zvgp91cqj@guest.airbnb.com\nPROPERT
+ Y: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Hui Wu (HM9Z3Y28Y9)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170802
+DTSTART;VALUE=DATE:20170731
+UID:-jdujxtf0gyxf-feuoi96r8iqo@airbnb.com
+DESCRIPTION:CHECKIN: 2017/07/31\nCHECKOUT: 2017/08/02\nNIGHTS: 2\nPHONE: 
+ +86 136 8845 5130\nEMAIL: user-hy3asb8ubi9h9bcj@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:周枳仲 周 (HMEPWSFXY9)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170806
+DTSTART;VALUE=DATE:20170802
+UID:-jdujxtf0gyxf-ya9ph10omgyq@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/02\nCHECKOUT: 2017/08/06\nNIGHTS: 4\nPHONE: 
+ +86 135 1288 8883\nEMAIL: user-sqnibwe43y8a8z2f@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:喆 郑 (HMCJESC4HC)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170810
+DTSTART;VALUE=DATE:20170806
+UID:-jdujxtf0gyxf-9zcqcrgbga5w@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/06\nCHECKOUT: 2017/08/10\nNIGHTS: 4\nPHONE: 
+ +86 137 7662 7080\nEMAIL: user-vk81abfqdfx5mzj2@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:洁 安 (HMXKY9H88B)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170814
+DTSTART;VALUE=DATE:20170811
+UID:-jdujxtf0gyxf--gs2zy2lba7tu@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/11\nCHECKOUT: 2017/08/14\nNIGHTS: 3\nPHONE: 
+ +44 7925 553059\nEMAIL: sabrina-loyfr80ydo5zcvjt@guest.airbnb.com\nPROPE
+ RTY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Sabrina Bela (HMCMJWCWM4)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170816
+DTSTART;VALUE=DATE:20170814
+UID:-jdujxtf0gyxf--wsn0jkj2xw52@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/14\nCHECKOUT: 2017/08/16\nNIGHTS: 2\nPHONE: 
+ +86 139 1628 1757\nEMAIL: user-357rfqpmup7tpru5@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:长青 王 (HMAR58CQHS)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170819
+DTSTART;VALUE=DATE:20170816
+UID:-jdujxtf0gyxf--vdhcnkrq7624@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/16\nCHECKOUT: 2017/08/19\nNIGHTS: 3\nPHONE: 
+ +86 133 0586 1323\nEMAIL: user-p11pi7f22mqppjl9@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:黎冬平 黎 (HM8Y2RKY52)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170822
+DTSTART;VALUE=DATE:20170819
+UID:-jdujxtf0gyxf-8yvplbsgofsy@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/19\nCHECKOUT: 2017/08/22\nNIGHTS: 3\nPHONE: 
+ +86 181 0516 0897\nEMAIL: user-wowcyw5hw826f6aj@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:小恬 张 (HM5RT9RB2E)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170826
+DTSTART;VALUE=DATE:20170822
+UID:-jdujxtf0gyxf--b3ww7mvwtsa2@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/22\nCHECKOUT: 2017/08/26\nNIGHTS: 4\nPHONE: 
+ +852 6226 2121\nEMAIL: lokman-mq36vnyatzcen3c2@guest.airbnb.com\nPROPERT
+ Y: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Lok Man Lam (HM5RT39STX)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170829
+DTSTART;VALUE=DATE:20170826
+UID:-jdujxtf0gyxf--4i90x8jta48k@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/26\nCHECKOUT: 2017/08/29\nNIGHTS: 3\nPHONE: 
+ +86 186 0129 1968\nEMAIL: user-9w3c8dftd5azzman@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:晗 张 (HMH394BPHA)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170904
+DTSTART;VALUE=DATE:20170830
+UID:-jdujxtf0gyxf-wu9udozsgnwi@airbnb.com
+DESCRIPTION:CHECKIN: 2017/08/30\nCHECKOUT: 2017/09/04\nNIGHTS: 5\nPHONE: 
+ +86 186 1181 0986\nEMAIL: user-1ybozk08hfeecl54@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:楠 芦 (HM9QXZR4ZC)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170907
+DTSTART;VALUE=DATE:20170905
+UID:-jdujxtf0gyxf--3allpaj5taze@airbnb.com
+DESCRIPTION:CHECKIN: 2017/09/05\nCHECKOUT: 2017/09/07\nNIGHTS: 2\nPHONE: 
+ +86 186 6250 5301\nEMAIL: gkni-koanub24ss899aa7@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Gkni Pcri (HM5XKJKDHQ)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170914
+DTSTART;VALUE=DATE:20170907
+UID:-jdujxtf0gyxf--ftsxhatgml4w@airbnb.com
+DESCRIPTION:CHECKIN: 2017/09/07\nCHECKOUT: 2017/09/14\nNIGHTS: 7\nPHONE: 
+ +61 478 672 800\nEMAIL: hoishan-zvwcxcwasy6vxbwz@guest.airbnb.com\nPROPE
+ RTY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Hoi Shan Wong (HMBJCRWXC9)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170918
+DTSTART;VALUE=DATE:20170914
+UID:-jdujxtf0gyxf--8zzxhwzes7fu@airbnb.com
+DESCRIPTION:CHECKIN: 2017/09/14\nCHECKOUT: 2017/09/18\nNIGHTS: 4\nPHONE: 
+ +86 152 5047 9096\nEMAIL: user-rbixkygestd95evo@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:翠媛 戴 (HMPFXRHM2F)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170924
+DTSTART;VALUE=DATE:20170918
+UID:-jdujxtf0gyxf--kpvbx1h96ypq@airbnb.com
+DESCRIPTION:CHECKIN: 2017/09/18\nCHECKOUT: 2017/09/24\nNIGHTS: 6\nPHONE: 
+ +852 9430 4141\nEMAIL: karmen-smzos6hmkxf8ejj6@guest.airbnb.com\nPROPERT
+ Y: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Karmen Wen (HMCNQYBEHN)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171009
+DTSTART;VALUE=DATE:20171004
+UID:-jdujxtf0gyxf-8khdupl5lk16@airbnb.com
+DESCRIPTION:CHECKIN: 2017/10/04\nCHECKOUT: 2017/10/09\nNIGHTS: 5\nPHONE: 
+ +852 6200 0495\nEMAIL: maris-mhex8ft4neoap1ox@guest.airbnb.com\nPROPERTY
+ : A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Maris Li (HM9MDZNWZN)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171011
+DTSTART;VALUE=DATE:20171009
+UID:-jdujxtf0gyxf-sv16i64za5i6@airbnb.com
+DESCRIPTION:CHECKIN: 2017/10/09\nCHECKOUT: 2017/10/11\nNIGHTS: 2\nPHONE: 
+ +86 176 2123 0302\nEMAIL: user-dk4q9ua6uk3c7tdb@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:道 王 (HMJZ8THB48)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171016
+DTSTART;VALUE=DATE:20171013
+UID:-jdujxtf0gyxf-oxv4dqm1r59e@airbnb.com
+DESCRIPTION:CHECKIN: 2017/10/13\nCHECKOUT: 2017/10/16\nNIGHTS: 3\nPHONE: 
+ +1 (403) 245-0069\nEMAIL: siewlang-jvm48ufn0uipn3le@guest.airbnb.com\nPR
+ OPERTY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Siew Lang Wong (HM35CZEWMN)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171110
+DTSTART;VALUE=DATE:20171103
+UID:-jdujxtf0gyxf-fcownvhb033g@airbnb.com
+DESCRIPTION:CHECKIN: 2017/11/03\nCHECKOUT: 2017/11/10\nNIGHTS: 7\nPHONE: 
+ +44 7878 566145\nEMAIL: carmen-5y6mg6inpidofst2@guest.airbnb.com\nPROPER
+ TY: A Dotonbori and Shinsaibashi shopping street!\n
+SUMMARY:Carmen Tsang (HMF5XW9N9T)
+LOCATION:A Dotonbori and Shinsaibashi shopping street!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20160923
+DTSTART;VALUE=DATE:20160817
+UID:d4mcha3lf5g1-xkpcs2jkx928@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161008
+DTSTART;VALUE=DATE:20161007
+UID:d4mcha3lf5g1--3l0btdcoyqh4@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161031
+DTSTART;VALUE=DATE:20161030
+UID:d4mcha3lf5g1-qnv81bckvvya@airbnb.com
+SUMMARY:清掃翌日
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161226
+DTSTART;VALUE=DATE:20161225
+UID:d4mcha3lf5g1--6sc6y5ec3pie@airbnb.com
+SUMMARY:清掃の為ブロック
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20161227
+DTSTART;VALUE=DATE:20161226
+UID:d4mcha3lf5g1-11fsp2dxb3kf@airbnb.com
+SUMMARY:J-comの工事１２時～１６時
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170102
+DTSTART;VALUE=DATE:20161231
+UID:d4mcha3lf5g1--vermaubx2gsx@airbnb.com
+SUMMARY:中国代理店経由\n2 ppl\n23548 JPY
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170103
+DTSTART;VALUE=DATE:20170102
+UID:d4mcha3lf5g1--q5fyep8z74na@airbnb.com
+SUMMARY:清掃予備日
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170109
+DTSTART;VALUE=DATE:20170108
+UID:d4mcha3lf5g1--ejjywguvdprc@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170124
+DTSTART;VALUE=DATE:20170123
+UID:d4mcha3lf5g1-6tfefk6xdqa8@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170213
+DTSTART;VALUE=DATE:20170209
+UID:d4mcha3lf5g1--4n1cc17mt2xw@airbnb.com
+SUMMARY:AB
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170214
+DTSTART;VALUE=DATE:20170213
+UID:d4mcha3lf5g1--qnwv1oj9co59@airbnb.com
+SUMMARY:清掃の為ブロック
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170308
+DTSTART;VALUE=DATE:20170301
+UID:d4mcha3lf5g1--ccl5kd717vrj@airbnb.com
+SUMMARY:AB
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170314
+DTSTART;VALUE=DATE:20170309
+UID:d4mcha3lf5g1-k1aavip24kx4@airbnb.com
+SUMMARY:AB
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170325
+DTSTART;VALUE=DATE:20170319
+UID:d4mcha3lf5g1--5tmeeommrshp@airbnb.com
+SUMMARY:AB\n
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170405
+DTSTART;VALUE=DATE:20170401
+UID:d4mcha3lf5g1--s1vzypg57ufu@airbnb.com
+SUMMARY:AB
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170416
+DTSTART;VALUE=DATE:20170406
+UID:d4mcha3lf5g1-vf9ntyi9qpg8@airbnb.com
+SUMMARY:AB
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170507
+DTSTART;VALUE=DATE:20170502
+UID:d4mcha3lf5g1--ex6gunjc0jbb@airbnb.com
+SUMMARY:A＋B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170517
+DTSTART;VALUE=DATE:20170513
+UID:d4mcha3lf5g1--mq4eafzb7hm4@airbnb.com
+SUMMARY:A&B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170523
+DTSTART;VALUE=DATE:20170519
+UID:d4mcha3lf5g1-p9ku5wt5tik5@airbnb.com
+SUMMARY:A&B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20170731
+DTSTART;VALUE=DATE:20170722
+UID:d4mcha3lf5g1--91a0h5s2v1je@airbnb.com
+SUMMARY:A+B
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180523
+DTSTART;VALUE=DATE:20180107
+UID:d4mcha3lf5g1-c235pjrxw5dj@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180818
+DTSTART;VALUE=DATE:20180701
+UID:d4mcha3lf5g1--fz61w0nats72@airbnb.com
+SUMMARY:Not available
+END:VEVENT
+END:VCALENDAR

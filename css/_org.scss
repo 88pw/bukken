@@ -1,0 +1,240 @@
+@charset "UTF-8";
+
+// 横幅
+@mixin width($w:12,$m:0,$w768:12,$w600:12,$w400:12,$m768:null,$m600:null,$m400:null,$imp:null){
+	$width:percentage($w / 12);
+	$margin:percentage($m / 100);
+
+	// margin設定時
+	@if $m != 0 {
+		width:$width - ($m*2) $imp;
+		@include box-sizing(border-box);
+		margin-left: $margin;
+		margin-right: $margin;
+	} @else {
+		width:$width $imp;
+		@include box-sizing(border-box);
+	}
+
+	$device:$w768,$w600,$w400;
+	$device_v:$m768,$m600,$m400;
+	$device_vl:length($device_v);
+	$device_w:768px,600px,400px;
+	
+	@for $i from 1 through $device_vl {
+		@if nth($device_v, $i) == null {
+			@media screen and (max-width: nth($device_w, $i)) {
+				$margin : percentage($m / 100);
+				margin-left:$margin;
+				margin-right:$margin;
+				width: percentage(nth($device, $i) / 12) - ($margin * 2) $imp;
+			}
+		} @else {
+			@media screen and (max-width: nth($device_w, $i)) {
+				$margin : percentage(nth($device_v, $i) / 100);
+				margin-left:$margin;
+				margin-right:$margin;
+				width: percentage(nth($device, $i) / 12) - ($margin * 2) $imp;
+			}
+		}
+	}
+}
+
+// border一括指定
+@mixin border($style:solid,$color:#000,$t:0,$r:0,$b:0,$l:0) {
+	@if $t <= 1 and $r == $b and $b == $l {
+		border: $t+px $style $color;
+	} @else {
+		border-top: $t+px $style $color;
+		border-right: $r+px $style $color;
+		border-bottom: $b+px $style $color;
+		border-left: $l+px $style $color;
+	}
+}
+
+// absolute一括指定
+@mixin position($p:absolute,$t:auto,$r:auto,$b:auto,$l:auto){
+	position: $p;
+	@if $t != auto { top: $t; }
+	@if $r != auto { right: $r; }
+	@if $b != auto { bottom: $b; }
+	@if $l != auto { left: $l; }
+}
+
+// リンク指定
+@mixin a($color,$deco:none) {
+	$color2:lighten($color, 30%);
+	text-decoration: $deco;
+	&:link,&:active{ color:$color; }
+	&:visited,&:hover{ color:$color2; }
+}
+
+// 明朝体
+@mixin serif($webfont:null) {
+	$font:'ヒラギノ明朝 ProN W6','HiraMinProN-W6','HG明朝E','ＭＳ Ｐ明朝','MS PMincho','MS 明朝',serif;
+	@if $webfont != null { font-family: quote($webfont) #{','} $font;
+	} @else { font-family: $font; }
+}
+
+// ゴシック体設定
+@mixin sans-serif($webfont:null) {
+	$font:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+	@if $webfont != null { font-family: quote($webfont) #{','} $font;
+	} @else { font-family: $font; }
+}
+
+// フォントサイズrem自動生成
+@mixin font-size($size: 14,$base: 16,$imp: "") {
+    font-size: $size + px + $imp;
+    font-size: ($size / $base)  + rem + $imp;
+}
+
+// リストのインライン表示（normal）
+@mixin list_inline($after:''){
+	float:left;
+	list-style-type: none;
+	&:after{
+		content:$after;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	&:last-child{
+		&:after{
+			content:'';
+		}	
+	}
+}
+
+// gradient一括指定
+@mixin gradient($color1:#ccc,$color2:#555,$img:0){
+background: $color2; /* Old browsers */
+@if $img != 0 {
+background: url(#{$img}) center left no-repeat ,-moz-linear-gradient(top,  $color1, $color2); /* FF3.6-15 */
+background: url(#{$img}) center left no-repeat ,-webkit-linear-gradient(top,  $color1,$color2); /* Chrome10-25,Safari5.1-6 */
+background: url(#{$img}) center left no-repeat ,linear-gradient(to bottom,  $color1,$color2); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+} @else {
+background: -moz-linear-gradient(top,  $color1, $color2); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  $color1,$color2); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  $color1,$color2); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */	
+}
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#{$color1}", endColorstr="#{$color2}",GradientType=0 ); /* IE6-9 */
+
+	// background: $bottomColor;
+ //    @include background-image(linear-gradient(top, $topColor, $bottomColor));
+ //    @include filter-gradient($topColor, $bottomColor, vertical);
+}
+
+@mixin liner-gradient($color1,$per1,$color2,$per2,$color3,$per3,$color4,$per4,$allow:top,$img:0) {
+background: $color1; /* Old browsers */
+$allow2: bottom;
+@if $allow == left {
+	$allow2: right;
+}
+@if $img != 0 {
+background: url(#{$img}) ,-moz-linear-gradient($allow,  $color1 $per1, $color2 $per2, $color3 $per3, $color4 $per4); /* FF3.6-15 */
+background: url(#{$img}) ,-webkit-linear-gradient($allow,  $color1 $per1,$color2 $per2,$color3 $per3,$color4 $per4); /* Chrome10-25,Safari5.1-6 */
+background: url(#{$img}) ,linear-gradient(to $allow2,  $color1 $per1,$color2 $per2,$color3 $per3,$color4 $per4); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+} @else {
+background: -moz-linear-gradient($allow,  $color1 $per1, $color2 $per2, $color3 $per3, $color4 $per4); /* FF3.6-15 */
+background: -webkit-linear-gradient($allow,  $color1 $per1,$color2 $per2,$color3 $per3,$color4 $per4); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to $allow2,  $color1 $per1,$color2 $per2,$color3 $per3,$color4 $per4); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */	
+}
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#{$color1}", endColorstr="#{$color4}",GradientType=0 ); /* IE6-9 */
+}
+
+
+/* box-shadow */
+@mixin box-shadow($color,$op,$atai,$inset:0){
+	@if $inset == 0 {
+		box-shadow:rgba($color, $op) $atai;
+		-webkit-box-shadow:rgba($color, $op) $atai;
+		-moz-box-shadow:rgba($color, $op) $atai;		
+	} @else {
+		box-shadow:rgba($color, $op) $atai inset;
+		-webkit-box-shadow:rgba($color, $op) $atai inset;
+		-moz-box-shadow:rgba($color, $op) $atai inset;
+	}
+
+}
+
+// 色分割
+@function colors($bunkatsu:2,$cnt:1,$colors:$colors){
+		$sikisou : hue($colors) + (360/$bunkatsu * $cnt);
+		$saido : saturation($colors);
+		$meido : lightness($colors);
+		@return hsl($sikisou, $saido,$meido);
+}
+
+@mixin cf() {
+	&:after{
+		content: "";
+    	display: block;
+    	clear: both;
+    }
+}
+
+@mixin reset() {
+	body{
+		margin: 0;
+		padding: 0;
+	}
+	h2,h3,h4,h5,ul,p{
+		margin: 0;
+		padding: 0;
+	}
+}
+
+@mixin text-shadow($stroke:1px,$color:#fff) {
+text-shadow:
+	(-$stroke) (-$stroke) $color,
+	$stroke (-$stroke) $color,
+	(-$stroke) $stroke $color,
+	$stroke $stroke $color;
+}
+
+@mixin flex(){
+	display:-webkit-box;
+	display:-moz-box;
+	display:-ms-box;
+	display:-webkit-flexbox;
+	display:-moz-flexbox;
+	display:-ms-flexbox;
+	display:-webkit-flex;
+	display:-moz-flex;
+	display:-ms-flex;
+	display:flex;
+	-webkit-box-lines:multiple;
+	-moz-box-lines:multiple;
+	-webkit-flex-wrap:wrap;
+	-moz-flex-wrap:wrap;
+	-ms-flex-wrap:wrap;
+	flex-wrap:wrap;
+}
+
+
+@mixin frame($name) {
+	background-image:	url(./img/bg_#{$name}_lt.jpg),
+						url(./img/bg_#{$name}_rt.jpg),
+						url(./img/bg_#{$name}_rb.jpg),
+						url(./img/bg_#{$name}_lb.jpg),
+						url(./img/bg_#{$name}_t.jpg),
+						url(./img/bg_#{$name}_r.jpg),
+						url(./img/bg_#{$name}_b.jpg),
+						url(./img/bg_#{$name}_l.jpg);
+	background-repeat:	no-repeat,
+						no-repeat,
+						no-repeat,
+						no-repeat,
+						repeat-x,
+						repeat-y,
+						repeat-x,
+						repeat-y;
+	background-position:top left,
+						top right,
+						bottom right,
+						bottom left,
+						top right,
+						top right,
+						bottom left,
+						top left;
+}

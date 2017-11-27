@@ -1,0 +1,22 @@
+{
+  "name": "anest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "2.2.4",
+    "sass-loader": "^6.0.6",
+    "slick-carousel": "^1.8.1",
+    "vue": "^2.5.3",
+    "vue-infinite-loading": "^2.2.1",
+    "vue-loader": "^13.5.0",
+    "vue-silentbox": "^0.1.1",
+    "webpack": "^3.8.1"
+  }
+}
